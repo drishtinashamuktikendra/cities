@@ -1,0 +1,57 @@
+bhopal Bhopal 462001 23.1815 77.4104
+indore Indore 452001 22.7196 75.8577
+jabalpur Jabalpur 482001 23.1815 79.9864
+gwalior Gwalior 474001 26.2183 78.1629
+ujjain Ujjain 456010 23.1815 75.7733
+
+sehore Sehore 466001 23.2047 77.0066
+raisen Raisen 464221 23.4356 77.8722
+vidisha Vidisha 464228 23.5185 77.8063
+betul Betul 460001 21.8875 77.9064
+dindori Dindori 481111 23.3236 79.5689
+katni Katni 483501 23.8266 80.4039
+seoni Seoni 480661 22.7578 79.9453
+mandla Mandla 481661 22.5769 80.6328
+balaghat Balaghat 481001 21.8289 80.3347
+rewa Rewa 488001 24.5356 81.2906
+
+itarsi Itarsi 461111 21.7594 77.6936
+hoshangabad Hoshangabad 461001 22.4292 77.7606
+burhanpur Burhanpur 450331 21.2989 76.2503
+khandwa Khandwa 450001 21.8338 76.3589
+khargone Khargone 451001 21.8031 75.4692
+sendhwa Sendhwa 451662 22.2394 75.6014
+barwani Barwani 451226 21.9061 75.4864
+dhar Dhar 454331 22.5931 75.5397
+manawar Manawar 453441 22.3156 75.3847
+malwa Malwa 453775 23.0453 75.5231
+
+mandsaur Mandsaur 458001 23.1831 75.0656
+neemuch Neemuch 458441 24.4411 74.9439
+ratlam Ratlam 457001 23.3194 75.0450
+sailana Sailana 457335 23.2689 74.9511
+shajapur Shajapur 465001 23.0464 76.0297
+agar Agar 458221 23.0964 75.4019
+mhow Mhow 453441 22.5686 75.6931
+pithampur Pithampur 454775 22.5108 75.7578
+rajgarh Rajgarh 465001 23.5636 75.7431
+narsimhapur Narsimhapur 483331 23.0956 79.3164
+
+chhindwara Chhindwara 480001 22.0611 79.2947
+sausar Sausar 480221 21.9758 79.3969
+nagpur-road Nagpur-Road 480003 21.9894 79.4392
+tekanpur Tekanpur 454446 22.6314 75.8947
+mundi Mundi 457331 23.3067 75.0769
+ebbagarh Ebbagarh 458331 23.4153 75.9425
+sohagpur Sohagpur 461331 22.2758 78.3614
+biaora Biaora 461335 22.3422 78.5006
+choral Choral 461341 22.4619 78.6764
+manpur Manpur 461446 22.5156 78.8003
+
+pipariya Pipariya 461226 22.3156 77.6281
+harda Harda 461331 21.9731 77.3961
+nimbora Nimbora 458114 23.5161 75.6156
+mundi-banswara Mundi-Banswara 457669 23.4778 75.0353
+ranirani Ranirani 453338 22.4594 75.8142
+kukshi Kukshi 454114 22.0417 75.5294
+babai Babai 453114 22.3411 75.9714
