@@ -1,2 +1,2 @@
-# blogger
-ai agent for blogging 
+# cities
+52 cities of MP for website ranking service pages.
